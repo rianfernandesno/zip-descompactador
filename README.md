@@ -18,5 +18,6 @@ Este programa é um descompactador simples que facilita o processo de descompact
 
 - Basta colocar os arquivos ZIP na pasta `ZIPADOS` e executar o programa para descompactar.
 - A execução inicial serve apenas para criar as pastas necessárias.
+- **Este código foi desenvolvido principalmente com o propósito de aprendizado sobre criação de executáveis com Python.**
 
 ---
