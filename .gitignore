@@ -1,0 +1,19 @@
+# Ignorar ambiente virtual
+.venv/
+
+# Ignorar pastas geradas pelo PyInstaller ou build
+build/
+__pycache__/
+
+# Ignorar qualquer arquivo .pyc (bytecode do Python)
+*.pyc
+
+# Ignorar arquivos temporários e logs
+*.log
+*.tmp
+
+# Ignorar arquivos de configuração do PyInstaller
+*.spec
+
+# Ignorar configurações do PyCharm
+.idea/
